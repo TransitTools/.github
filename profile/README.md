@@ -1,11 +1,21 @@
-## Transit Tools
+## TransitTools
 
-Websites and utilities for supporting public transit communications, and tools to help riders get into the outdoors car-free.
+TransitTools is home to projects and tools related to public transit, active transportation, and access to the outdoors.
 
-Home of:
+Projects include independent projects, tools developed for Hiking by Transit, and software developed in support of other transportation-related organizations.
 
-* Hiking by Transit, the only comprehensive resource for transit to the outdoors in California
-* Bikes on Amtrak, the guide to bicycle access on each Amtrak route
-* The Clipper 2.0 Savings Calculator, a fare system project for Seamless Bay Area and the Transbay Coalition
-* The Sustainable Transportation Questionnaire tool, the results of Seamless Bay Area's Candidate Questionnaire
-* RoutesToNature.org, the website for a group of advocates for car-free outdoor recreation access
+### Projects
+
+#### Hiking by Transit
+
+* Resources for getting into the outdoors car-free. The main website includes a comprehensive database of transit access points and trailheads, as well as select hikes.
+* Tools built to automatically discover transit-accessible trailheads using public datasets, for human review.
+* **Routes to Nature**: As part of a member of Routes to Nature, an outdoor access advocacy group, the website for the group lives here.
+
+#### Bikes on Amtrak
+
+The complete guide to bicycle access across the entire Amtrak network.
+
+#### Other transit tools
+
+Other transportation-related projects and utilities are also part of TransitTools, including software developed for projects led by other organizations. See individual repositories for specific affiliation, ownership, and licensing.
